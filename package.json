@@ -1,7 +1,7 @@
 {
   "name": "ping-pong",
   "version": "1.0.0",
-  "description": "",
+  "description": "_This website starts the game by displaying a color and user has to input the same color. If the color name matches, this webite woule send out same color added with another color determined randomly. If the user sent back same colors in the same sequence, it'll send the users those colors back added with another color chosen randomly. The game would conclude after 4th attempt, if the user kept on getting the right answers. Or it would display \"you lost\"_",
   "main": "main.js",
   "scripts": {
     "build": "webpack",
@@ -22,5 +22,13 @@
     "webpack": "4.39.3",
     "webpack-cli": "^3.3.8",
     "webpack-dev-server": "^3.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djzevenbergen/simon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/djzevenbergen/simon/issues"
+  },
+  "homepage": "https://github.com/djzevenbergen/simon#readme"
 }
