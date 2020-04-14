@@ -10,7 +10,7 @@ _This website starts the game by displaying a color and user has to input the sa
 
 ## Setup/Installation Requirements
 
-* Please Go in the root directory and type npm run start at the prompt and server would kick off the browser and start
+* Clone the project and than go in the root directory and type npm run start at the prompt and server would kick off the browser and start
 
 ## Known Bugs
 
